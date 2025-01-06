@@ -1,5 +1,5 @@
 import React from "react";
-import Nav from "./components/Navbar/nav";
+import Nav from "./components/Navbar/Nav";
 import Countries from "./components/Countries/Countries";
 import Recently from "./components/Recently/Recently";
 import Contact from "./components/ContactUs/Contact";
