@@ -27,7 +27,7 @@ const Nav = () => {
         </div>
       </nav>
       <div className="image">
-        <img src="./public/BannerImage.png"></img>
+        <img src="./BannerImage.png"></img>
         <h1 className="heading">Easy Way To Find a Perfect Property </h1>
         <p className="Paragraph">
           We provide a complete service for the sale, purchase or rental of real

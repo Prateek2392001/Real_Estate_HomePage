@@ -5,7 +5,7 @@ const Contact = () => {
   return (
     <div className="rectangle-box">
       <div className="contact-image">
-        <img src="./public/Prateek 1.png"></img>
+        <img src="./Prateek 1.png"></img>
       </div>
 
       <div className="contact-all">
