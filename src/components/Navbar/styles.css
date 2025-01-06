@@ -1,0 +1,121 @@
+body{
+  font-family: Roboto;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: white ;
+  }
+  
+  .logo img {
+    height: 50px;
+    padding: 10px;
+    margin-left: 20px;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    
+  }
+  
+  .nav-links li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+  }
+  
+  .nav-links li a:hover {
+    color: blue;
+  }
+  
+  .login-button button {
+    background-color: transparent;
+    border: 2px solid #007bff;
+    color: #007bff;
+    padding: 5px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .login-button button:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .image img{
+    width: 100%;
+    height: 550px;
+    border-radius: 8px;
+    margin: 20px;
+  }
+  
+  .image .heading{
+    position: absolute;
+    top: 25%;
+    left: 80px;
+    font-size: 40px;
+  }
+  
+  .image .Paragraph{
+    position: absolute;
+    top: 30%;
+    left: 100px;
+    margin-top: 40px;
+    font-size: 20px;
+  }
+  /* .Property{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  } */
+
+  .word-container {
+    display: flex;
+    gap: 20px;
+    position: absolute;
+    top: 50%;
+    left: 130px;
+  }
+  
+  .word {
+    position: relative;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  .popup {
+    display: none;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    font-size: 14px;
+    white-space: nowrap;
+    min-width: 200px;
+  }
+  .popup img{
+    height: 30px;
+    width: 30px;
+    margin: 0px;
+  }
+.popup p{
+  margin: 10px;
+}
+  
+  .word:hover .popup {
+    display: ruby;
+    border-radius: 20px;
+  }
+  
+  
+
+
+  

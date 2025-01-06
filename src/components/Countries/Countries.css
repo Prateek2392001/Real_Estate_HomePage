@@ -1,0 +1,45 @@
+.containers {
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    width: 100vw;
+  }
+  
+  .title {
+    font-size: 30px;
+    color: black;
+    margin-bottom: 20px;
+  }
+  
+  .image-card {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    gap: 50px;
+  }
+  
+  .image-container {
+    position: relative;
+    width: 200px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 280px;
+  }
+  
+  .image {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+  }
+  
+  .image-text {
+    position: absolute;
+    top: 10px; 
+    left: 40%;
+    color: #000000;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
