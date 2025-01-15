@@ -6,7 +6,7 @@ const Subscribe = () => {
     <div className="subscribe">
       <div className="Subscribe-container">
         <div>
-          <img src="./public/Logo.png" alt="Logo" />
+          <img src="./Logo.png" alt="Logo" />
         </div>
         <div>
           <p>
