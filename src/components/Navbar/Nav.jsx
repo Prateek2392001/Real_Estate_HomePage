@@ -6,7 +6,7 @@ const Nav = () => {
     <>
       <nav className="navbar">
         <div className="logo">
-          <img src="./public/Logo.png" alt="Logo" />
+          <img src="./Logo.png" alt="Logo" />
         </div>
         <ul className="nav-links">
           <li>
@@ -40,7 +40,7 @@ const Nav = () => {
               <p>
                 <strong>Location:</strong> <br /> Select Youe City
               </p>
-              <img src="./src/assets/Logo/Group 3.png" alt="" />
+              <img src="./location.png" alt="" />
               <p>
                 <strong>Property Type:</strong> <br />
                 Choose Property Type
@@ -49,7 +49,7 @@ const Nav = () => {
                 <strong>Price Range:</strong>
                 <br /> Choose Price Range
               </p>
-              <img src="./src/assets/Logo/search button.png" alt="" />
+              <img src="./searchbutton.png" alt="" />
             </div>
           </span>
           <span class="word">

@@ -15,7 +15,7 @@ const Recently = () => {
           <div className="card">
             <div className="card-content">
               <div className="card-img">
-                <img src="./public/Rectangle 7.png" alt="" />
+                <img src="./Rectangle1.png" alt="" />
               </div>
               <div className="card-description">
                 <div className="heading">
@@ -28,10 +28,10 @@ const Recently = () => {
                 </div>
                 <div className="card-price">
                   <div className="heading">
-                    <h3>Posted by X Builder</h3>
+                    <h3 className="posted-heading">Posted by X Builder</h3>
                   </div>
                   <div className="btn">
-                    <button>$45,545</button>
+                    <button className="btn-button">$45,545</button>
                   </div>
                 </div>
               </div>
@@ -40,7 +40,7 @@ const Recently = () => {
           <div className="card">
             <div className="card-content">
               <div className="card-img">
-                <img src="./public/Rectangle 8.png" alt="" />
+                <img src="./Rectangle2.png" alt="" />
               </div>
               <div className="card-description">
                 <div className="heading">
@@ -53,10 +53,10 @@ const Recently = () => {
                 </div>
                 <div className="card-price">
                   <div className="heading">
-                    <h3>Posted by X Builder</h3>
+                    <h3 className="posted-heading">Posted by X Builder</h3>
                   </div>
                   <div className="btn">
-                    <button>$45,545</button>
+                    <button className="btn-button">$45,545</button>
                   </div>
                 </div>
               </div>
@@ -65,7 +65,7 @@ const Recently = () => {
           <div className="card">
             <div className="card-content">
               <div className="card-img">
-                <img src="./public/Rectangle 13.png" alt="" />
+                <img src="./Rectangle3.png" alt="" />
               </div>
               <div className="card-description">
                 <div className="heading">
@@ -78,10 +78,10 @@ const Recently = () => {
                 </div>
                 <div className="card-price">
                   <div className="heading">
-                    <h3>Posted by X Builder</h3>
+                    <h3 className="posted-heading">Posted by X Builder</h3>
                   </div>
                   <div className="btn">
-                    <button>$45,545</button>
+                    <button className="btn-button">$45,545</button>
                   </div>
                 </div>
               </div>
@@ -90,7 +90,7 @@ const Recently = () => {
           <div className="card">
             <div className="card-content">
               <div className="card-img">
-                <img src="./public/Rectangle 14.png" alt="" />
+                <img src="./Rectangle4.png" alt="" />
               </div>
               <div className="card-description">
                 <div className="heading">
@@ -103,10 +103,10 @@ const Recently = () => {
                 </div>
                 <div className="card-price">
                   <div className="heading">
-                    <h3>Posted by X Builder</h3>
+                    <h3 className="posted-heading">Posted by X Builder</h3>
                   </div>
                   <div className="btn">
-                    <button>$45,545</button>
+                    <button className="btn-button">$45,545</button>
                   </div>
                 </div>
               </div>
@@ -115,7 +115,7 @@ const Recently = () => {
           <div className="card">
             <div className="card-content">
               <div className="card-img">
-                <img src="./public/Rectangle 15.png" alt="" />
+                <img src="./Rectangle5.png" alt="" />
               </div>
               <div className="card-description">
                 <div className="heading">
@@ -128,10 +128,10 @@ const Recently = () => {
                 </div>
                 <div className="card-price">
                   <div className="heading">
-                    <h3>Posted by X Builder</h3>
+                    <h3 className="posted-heading">Posted by X Builder</h3>
                   </div>
                   <div className="btn">
-                    <button>$45,545</button>
+                    <button className="btn-button">$45,545</button>
                   </div>
                 </div>
               </div>
@@ -140,7 +140,7 @@ const Recently = () => {
           <div className="card">
             <div className="card-content">
               <div className="card-img">
-                <img src="./public/Rectangle 16.png" alt="" />
+                <img src="./Rectangle6.png" alt="" />
               </div>
               <div className="card-description">
                 <div className="heading">
@@ -153,10 +153,10 @@ const Recently = () => {
                 </div>
                 <div className="card-price">
                   <div className="heading">
-                    <h3>Posted by X Builder</h3>
+                    <h3 className="posted-heading">Posted by X Builder</h3>
                   </div>
                   <div className="btn">
-                    <button>$45,545</button>
+                    <button className="btn-button">$45,545</button>
                   </div>
                 </div>
               </div>

@@ -47,8 +47,15 @@
     width: 180px;
     height: 50px;
     color: #fff;
-    background-color: #1DAEFF;
+    background-color: blue;
     border-radius: 10px;
     border-style: none ;
    
+  }
+
+  .contact-button:hover{
+    background-color: blueviolet;
+    transform: scale(1.05);
+    cursor: pointer;
+
   }

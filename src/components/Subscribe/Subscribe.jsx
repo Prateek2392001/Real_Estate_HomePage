@@ -17,10 +17,10 @@ const Subscribe = () => {
           </p>
         </div>
         <div className="subscribe-logo">
-          <img src="./src/assets/Logo/Facebook.png" alt="" />
-          <img src="./src/assets/Logo/Twitter.png" alt="" />
-          <img src="./src/assets/Logo/Instagram.png" alt="" />
-          <img src="./src/assets/Logo/LinkedIn.png" alt="" />
+          <img src="./Facebook.png" alt="" />
+          <img src="./Twitter.png" alt="" />
+          <img src="./Instagram.png" alt="" />
+          <img src="./LinkedIn.png" alt="" />
         </div>
         <div className="subscribe-reserved">
           <p>@ 2024 .All rights reserved by Prateek Sri</p>

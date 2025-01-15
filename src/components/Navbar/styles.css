@@ -19,7 +19,7 @@ body{
     list-style: none;
     display: flex;
     gap: 20px;
-    
+
   }
   
   .nav-links li a {
@@ -30,6 +30,7 @@ body{
   
   .nav-links li a:hover {
     color: blue;
+
   }
   
   .login-button button {
@@ -67,11 +68,6 @@ body{
     margin-top: 40px;
     font-size: 20px;
   }
-  /* .Property{
-    list-style: none;
-    display: flex;
-    gap: 20px;
-  } */
 
   .word-container {
     display: flex;
